@@ -71,4 +71,4 @@ python3 downloaded_script.py
 ### Contributing
 Contribution are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/Geeta-Systems/screenshot-utility)
 
-## Author : [Geeta Systems](https://github.com/Geeta-Systems)
+## Author : [Geeta Systems](https://github.com/GeetaSystems)
